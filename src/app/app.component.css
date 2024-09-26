@@ -1,0 +1,28 @@
+button {
+    background-color: #247f3e;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 15px;
+    cursor: pointer;
+    border-style :solid;
+      border-color: #247f3e;
+    &:hover {
+      background-color: #ffffff; 
+      color: #247f3e; 
+      
+    }
+  }
+  .row{
+    margin-bottom: 40px;
+  }
+  input {
+    margin-bottom: 15px;
+    padding: 10px;
+    width: 40%;
+    font-size: 1.1em;
+  }
+  
+  p {
+    font-size: 1.2em;
+  }

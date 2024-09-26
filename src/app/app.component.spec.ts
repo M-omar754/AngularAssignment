@@ -1,6 +1,6 @@
 import { TestBed } from '@angular/core/testing';
 import { AppComponent } from './app.component';
-
+import { CpipePipe } from './pipes/cpipe.pipe';
 describe('AppComponent', () => {
   beforeEach(async () => {
     await TestBed.configureTestingModule({
